@@ -1,0 +1,22 @@
+{
+  "name": "eipnumbernft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pandapip1/EIPNumberNFT.git"
+  },
+  "author": "Pandapip1",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/Pandapip1/EIPNumberNFT/issues"
+  },
+  "homepage": "https://github.com/Pandapip1/EIPNumberNFT#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.1"
+  }
+}
