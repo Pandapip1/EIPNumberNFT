@@ -39,4 +39,6 @@ contract EIPEditorPaymaster is BasePaymaster {
     ) external override virtual {
         (context, success, gasUseWithoutPost, relayData);
     }
+    
+    function deposit() payable {}
 }
